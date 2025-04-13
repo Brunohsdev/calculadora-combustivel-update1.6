@@ -171,26 +171,6 @@ function Exibirtela(){
   
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Adiciona tudo no form
 form.appendChild(p1);
 form.appendChild(inputDistancia);
